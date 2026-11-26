@@ -1,0 +1,16 @@
+.env
+.venv/
+venv/
+__pycache__/
+
+data/
+data_for_participants/
+*.csv
+*.json
+!requirements.txt
+
+llm_reasoning_logs/
+diag_reasoning_*.txt
+.best_score.json
+
+.idea/
